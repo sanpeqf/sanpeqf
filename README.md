@@ -1,4 +1,4 @@
-### Hi there, I'm Fredrik Anderson
+### Hi there, I'm John Sanpe
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sanpeqf)
 [![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/sanpeqf.gpg)
