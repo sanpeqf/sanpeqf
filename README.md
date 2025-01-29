@@ -1,5 +1,3 @@
-### Hi there, I'm Jalen Wong
-
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/sanpeqf)
 [![GPG Key Badge](https://img.shields.io/badge/GPG-Key-green)](https://github.com/sanpeqf.gpg)
 
